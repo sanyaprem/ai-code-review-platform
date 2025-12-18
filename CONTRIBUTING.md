@@ -70,7 +70,7 @@ Please describe:
 ## 📧 Questions?
 
 - **Issues**: [GitHub Issues](https://github.com/sanyaprem/ai-code-review-platform/issues)
-- **Email**: your.email@example.com
+- **Email**: sanyapb@gmail.com
 
 ---
 
