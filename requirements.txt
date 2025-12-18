@@ -1,0 +1,16 @@
+﻿# Core AWS SDK
+boto3==1.35.76
+
+# Google Gemini AI
+google-generativeai==0.8.3
+
+# HTTP Requests
+urllib3==2.2.3
+
+# gRPC and Protocol Buffers
+grpcio==1.68.1
+grpcio-status==1.68.1
+protobuf==5.29.2
+
+# Date/Time utilities
+python-dateutil==2.9.0.post0
